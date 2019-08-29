@@ -1,0 +1,42 @@
+#!/bin/sh
+
+
+apm install atom-beautify
+apm install atom-fuzzy-grep
+apm install atom-python-virtualenv
+apm install autocomplete-ruby
+apm install better-git-blame
+apm install busy-signal
+apm install city-lights-syntax
+apm install city-lights-ui
+apm install compare-files
+apm install copy-find-results
+apm install cucumber
+apm install cucumber-autocomplete
+apm install cucumber-step
+apm install fuzzy-finder
+apm install gemsource
+apm install git-plus
+apm install highlight-selected
+apm install ide-python
+apm install indent-guide-improved3
+apm install intentions
+apm install language-cucumber
+apm install language-groovy
+apm install language-jenkinsfile
+apm install language-ruby-on-rails3
+apm install linter
+apm install linter-erb
+apm install linter-rubocop
+apm install linter-ui-default
+apm install platformio-ide-terminal
+apm install pretty-json
+apm install python-tools
+apm install ruby-block
+apm install ruby-navigator
+apm install ruby-test
+apm install split-diff
+apm install symbol-gen
+apm install tasks
+apm install tree-view-copy-relative-path
+apm install whitespace
